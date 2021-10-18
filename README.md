@@ -4,7 +4,7 @@
 
 > This is a coding challenge repo
 
-- In this Microverse Mob programming session, my team and I solved the Birthday cake candles challenge on Hackerrank.
+- In this Microverse Mob programming session, I solved the Birthday cake candles challenge on Hackerrank.
 - To take a look at this challenge in full, visit [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem)
 
 ### Author
